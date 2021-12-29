@@ -3,13 +3,15 @@
   "id": "transcraft",
   "version": "${version}",
   "name": "Transcraft",
-  "description": "traaaaaannnnnsssss",
+  "description": "A mod that adds trans and LGBTQ+ related items, blocks, and more",
   "authors": [
     "No767"
   ],
-  "contact": {},
-  "license": "MIT",
-  "icon": "assets/transcraft/icon.png",
+  "contact": {
+    "sources": "https://github.com/No767/Transcraft",
+    "issues": "https://github.com/No767/Transcraft"
+  },
+  "license": "Apache-2.0",
   "environment": "*",
   "entrypoints": {
     "client": [
