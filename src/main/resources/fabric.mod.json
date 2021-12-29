@@ -9,8 +9,10 @@
   ],
   "contact": {
     "sources": "https://github.com/No767/Transcraft",
-    "issues": "https://github.com/No767/Transcraft"
+    "issues": "https://github.com/No767/Transcraft/issues",
+    "homepage": "https://github.com/No767/Transcraft"
   },
+  "icon": "assets/transcraft/Transcraft-Logo.png",
   "license": "Apache-2.0",
   "environment": "*",
   "entrypoints": {
