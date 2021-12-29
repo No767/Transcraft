@@ -1,4 +1,5 @@
 # Transcraft
+[![Gradle CI](https://github.com/No767/Transcraft/actions/workflows/gradle.yml/badge.svg)](https://github.com/No767/Transcraft/actions/workflows/gradle.yml)
 
 A mod that adds trans and LGBTQ+ related items
 
