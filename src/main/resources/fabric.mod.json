@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "transcraft",
+  "version": "${version}",
+  "name": "Transcraft",
+  "description": "traaaaaannnnnsssss",
+  "authors": [
+    "No767"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/transcraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "transcraft.transcraft.client.TranscraftClient"
+    ],
+    "main": [
+      "io.github.main.transcraft"
+    ]
+  },
+  "mixins": [
+    "transcraft.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
